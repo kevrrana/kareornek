@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kareninalanı\kareninalanı\bin\Debug\kareninalanı.exe.config
+C:\Users\User\source\repos\kareninalanı\kareninalanı\bin\Debug\kareninalanı.exe
+C:\Users\User\source\repos\kareninalanı\kareninalanı\bin\Debug\kareninalanı.pdb
+C:\Users\User\source\repos\kareninalanı\kareninalanı\obj\Debug\kareninalanı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kareninalanı\kareninalanı\obj\Debug\kareninalanı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kareninalanı\kareninalanı\obj\Debug\kareninalanı.Form1.resources
+C:\Users\User\source\repos\kareninalanı\kareninalanı\obj\Debug\kareninalanı.Properties.Resources.resources
+C:\Users\User\source\repos\kareninalanı\kareninalanı\obj\Debug\kareninalanı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kareninalanı\kareninalanı\obj\Debug\kareninalanı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kareninalanı\kareninalanı\obj\Debug\kareninalanı.exe
+C:\Users\User\source\repos\kareninalanı\kareninalanı\obj\Debug\kareninalanı.pdb
